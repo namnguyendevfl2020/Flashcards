@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/components/*": ["components/*"],
+      "@/pages/*": ["pages/*"],
+      "@/styles/*": ["styles/*"]
+    }
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "types.d.ts", "pages/_error.tsx", "helpers/server/decks/decks.controller.ts", "helpers/server/decks/decks.service.ts", "helpers/server/errors/asyncErrorBoundary.ts", "helpers/server/decks/decks.app.ts", "helpers/server/errors/errorHandler.ts", "deleted-files/route.ts", "deleted-files/app.ts", "lib/global/icons.js"],
+  "exclude": ["node_modules"]
+}

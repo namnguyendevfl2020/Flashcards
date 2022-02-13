@@ -1,0 +1,1 @@
+export { default as popupSlice } from "./popup.slice";

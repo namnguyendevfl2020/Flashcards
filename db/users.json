@@ -1,0 +1,16 @@
+{
+    "user_id": 5,
+    "user_name": "+18135642789",
+    "password": "$argon2id$v=19$m=4096,t=3,p=1$5GyK5Q1Gvxs5yoPdM3j6SQ$KybOLln3yofWi1IDTtlLWtyQuBcVQ2Tsv84vPMAdozM",
+    "first_name": "Nam",
+    "last_name": "Nguyen",
+    "birthday": "1917-11-16T05:00:00.000Z",
+    "age": null,
+    "secret_key": "{\"ascii\":\"#LF?IMqZvm,q]>p5L.IVt9a?n>g6a^\",\"hex\":\"234c463f494d715a766d2c715d3e70354c2e49567439613f6e3e6736615e\",\"base32\":\"ENGEMP2JJVYVU5TNFRYV2PTQGVGC4SKWOQ4WCP3OHZTTMYK6\",\"otpauth_url\":\"otpauth://totp/SecretKey?secret=ENGEMP2JJVYVU5TNFRYV2PTQGVGC4SKWOQ4WCP3OHZTTMYK6\"}",
+    "is_active": false,
+    "email": null,
+    "phone_number": "8135642789",
+    "dial_code": "1",
+    "created_at": "2022-02-05T01:02:01.600Z",
+    "updated_at": "2022-02-05T01:02:01.600Z"
+}
