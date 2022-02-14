@@ -1,5 +1,5 @@
-# FLASHCARDS-O-MATIC  
-FLASHCARDS-O-MATIC is created for students who want create different flashcards. 
+# FLASHCARDS O MATIC  
+FLASHCARDS O MATIC is created for students who want create different flashcards. 
 You can access a working prototype of the Nextjs app here: https://flashcards-omega.vercel.app/ 
 
 ## Table of Contents
@@ -407,7 +407,7 @@ This is v1.0 of the app, but future enhancements are expected to include:
 ## Installation
 
 1. Fork and clone this respository.
-1. Run `cp ./env.sample .env`.
+1. Run `cp .env.sample .env`.
 1. Update `.env` file with the connection URL's and other keys.
 1. Run `npm install` to install project dependencies.
 1. Run `npm run dev` to start your app in development mode.
