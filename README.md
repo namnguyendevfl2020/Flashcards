@@ -11,7 +11,6 @@ You can access a working prototype of the Nextjs app here: https://flashcards-om
 * [Back-end Structure](#Back-end-Structure)
 * [API documentation](#API-Documentation)
 * [Room for Improvement](#Room-For-Improvement)
-* [Database Setup](#Database-Setup)
 * [Installation](#Installation)
 * [Acknowledgements](#Acknowledgements)
 * [Contact](#contact)
@@ -398,11 +397,6 @@ This is v1.0 of the app, but future enhancements are expected to include:
 1. Connections - in order to share and learn from other users.
 2. Add a landing page to describe the app.
 2. Add instructions for each field of the signup popup so users will not be confused.
-
-## Database Setup
-
-1. Set up four new ElephantSQL database instances - development, test, preview, and production - by following the instruction in the "PostgreSQL: Creating & Deleting Databases" checkpoint.
-1. After setting up your database instances, connect DBeaver to your new database instances by following the instruction in the "PostgreSQL: Installing DBeaver" checkpoint.
 
 ## Installation
 
