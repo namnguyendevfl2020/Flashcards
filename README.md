@@ -19,45 +19,45 @@ You can access a working prototype of the Nextjs app here: https://flashcards-om
 
 ## User Stories 
 
-#### Login Page 
-* As a returning register user.
-* I want to enter my password and username to use this app.
-* So I can have access to my account.
+    #### Login Page 
+    * As a returning register user.
+    * I want to enter my password and username to use this app.
+    * So I can have access to my account.
 
-#### Sign Up 
-* As a user. 
-* I want to register to use this app.
-* So I can create a personal account.
+    #### Sign Up 
+    * As a user. 
+    * I want to register to use this app.
+    * So I can create a personal account.
 
-#### Recover password 
-* As a registered user.
-* I want to recover my password by my phone number or my email.
-* So I can create a new password and access to my account.
+    #### Recover password 
+    * As a registered user.
+    * I want to recover my password by my phone number or my email.
+    * So I can create a new password and access to my account.
 
-#### Dashboard Page 
-* As a logged-in user.
-* I want to be able to view all saved decks and have the ability to create a new deck, view saved decks, study saved decks and delete them.
-* So I can decide which deck to view, study or delete or I can create a new deck.
+    #### Dashboard Page 
+    * As a logged-in user.
+    * I want to be able to view all saved decks and have the ability to create a new deck, view saved decks, study saved decks and delete them.
+    * So I can decide which deck to view, study or delete or I can create a new deck.
 
-#### Add a new deck Page 
-* As a logged-in user.
-* I want to be able to create a new deck with a name and a description. 
-* So I can save the new deck to the dashboard.
+    #### Add a new deck Page 
+    * As a logged-in user.
+    * I want to be able to create a new deck with a name and a description. 
+    * So I can save the new deck to the dashboard.
 
-#### View Deck Page 
-* As a logged-in user.
-* I want to be able to view a deck with name, description and cards for this deck and have the ability to edit, study and delete the deck as well as edit and delete a card.
-* So I can update the deck and cards, and add a new card.
+    #### View Deck Page 
+    * As a logged-in user.
+    * I want to be able to view a deck with name, description and cards for this deck and have the ability to edit, study and delete the deck as well as edit and delete a card.
+    * So I can update the deck and cards, and add a new card.
 
-#### Study Deck Page 
-* As a logged-in user.
-* I want to be able to study a deck by displaying the front part of each card and have the ability to flip to the back side of that card as well as to continue the next card.
-* So I can update study the deck by trying to answer the question of each card.
+    #### Study Deck Page 
+    * As a logged-in user.
+    * I want to be able to study a deck by displaying the front part of each card and have the ability to flip to the back side of that card as well as to continue the next card.
+    * So I can update study the deck by trying to answer the question of each card.
 
-#### Add a new card Page  
-* As a logged-in user.
-* I want to be able to create a new card with a front and a back.
-* So I can add a questions to the front and a answer to the back and save them.
+    #### Add a new card Page  
+    * As a logged-in user.
+    * I want to be able to create a new card with a front and a back.
+    * So I can add a questions to the front and a answer to the back and save them.
 
 ## Screenshots
 ### Login Page
