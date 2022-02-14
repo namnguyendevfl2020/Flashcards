@@ -422,5 +422,5 @@ If you have trouble getting the server to run, reach out for assistance.
 - Many thanks to [Thinkful](https://www.thinkful.com/), [Marius Banea](https://www.linkedin.com/in/mariusbanea/), [Jason Watmore](https://jasonwatmore.com/), [Redux](https://redux.js.org/), and [Stackoverflow](https://stackoverflow.com/).
 
 ## Contact
-Created by [Nam Nguyen](https://www.flynerd.pl/) - feel free to contact me!
+Created by [Nam Nguyen](https://namnguyen-portfolio.vercel.app) - feel free to contact me!
 
