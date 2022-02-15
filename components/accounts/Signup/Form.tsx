@@ -310,7 +310,7 @@ export default function Form(){
                             </input>        
                         </div>
                     }
-                    {!ageBirthday
+                    {ageBirthday
                     ? <TxtBtn title = {use_DOB_text} handleClick={handleBirthday}/>
                     : <TxtBtn title = {use_age_text} handleClick={handleBirthday}/>
                     }
