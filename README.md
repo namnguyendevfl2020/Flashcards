@@ -413,7 +413,7 @@ If you have trouble getting the server to run, reach out for assistance.
 
 - This project was inspired by Thinkful flashcards capstone.
 - This project was based on [JWT Authentication Tutorial with Example App](https://jasonwatmore.com/post/2021/08/04/next-js-11-jwt-authentication-tutorial-with-example-app) and [Redux fundementals tutorial](https://redux.js.org/tutorials/fundamentals/part-8-modern-redux).
-- Many thanks to [Thinkful](https://www.thinkful.com/), [Marius Banea](https://www.linkedin.com/in/mariusbanea/), [Jason Watmore](https://jasonwatmore.com/), [Redux](https://redux.js.org/), and [Stackoverflow](https://stackoverflow.com/).
+- Many thanks to [Thinkful](https://www.thinkful.com/), [Jason Watmore](https://jasonwatmore.com/), [Redux](https://redux.js.org/), and [Stackoverflow](https://stackoverflow.com/).
 
 ## Contact
 Created by [Nam Nguyen](https://namnguyen-portfolio.vercel.app) - feel free to contact me!
